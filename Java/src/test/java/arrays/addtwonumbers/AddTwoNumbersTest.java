@@ -4,7 +4,7 @@ import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Test;
 
-public class SolutionTest {
+public class AddTwoNumbersTest {
 	
 	@Test
 	public void test() {
